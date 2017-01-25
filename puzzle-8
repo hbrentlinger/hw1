@@ -1,0 +1,38 @@
+var color;
+
+function downs() {
+down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+}
+
+function ups() {
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+}
+
+downs();
+right();
+right();
+ups();
+right();
+right();
+downs();
+right();
+right();
+ups();
+right();
+right();
+downs();
+right();
