@@ -1,0 +1,23 @@
+var color;
+
+function blue() {
+if (getColor() == "blue") {
+ down();
+  right();
+  right();
+}
+  else {
+     up();
+  right();
+  right();   
+}
+}
+
+
+
+right();
+right();
+blue();
+blue();
+blue();
+right();
