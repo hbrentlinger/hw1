@@ -1,0 +1,28 @@
+var color;
+
+function blue() {
+while (getColor() != "red") {
+  down();
+}
+}
+
+function blue2() {
+while (getColor() != "red") {
+  up();
+}
+}
+
+blue();
+right();
+right();
+blue2();
+right();
+right();
+blue();
+right();
+right();
+blue2();
+right();
+right();
+blue();
+right();
