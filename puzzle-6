@@ -1,0 +1,19 @@
+function blue() {
+if (getColor() == "red") {
+up();
+up();
+up();
+left();
+up();
+}
+  else {
+    down();
+    down();
+    down();
+    right();
+    down(); 
+  }
+}
+
+right();
+blue();
